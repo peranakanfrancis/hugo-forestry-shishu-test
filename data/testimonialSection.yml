@@ -2,18 +2,30 @@
 enable: true
 topTitle: Testimonials
 title: >
-  ## What People are Say About Me?
+  ## What People are Say About us?
 
 testimonial:
-  - name: Ryan Cook
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
+  - name: Shrestha Raam
+    comment: So nice country with fully of friendly people. My group arrange trekking with Shishu it was awesome. and the most I like is the helper Ms Sonu he is amazing the best guide and helper ever.make sure he with you.Thanks for all and hope to see you again.
     time: Jan 20, 2020
     star: 5
-  - name: Justin Trudo
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
+  - name: Gurung Shir
+    comment: For those of us who will never make it to the top of Everest climbing 45 mins of stairs to Poon Hill to watch the sunrise is a good compensation. We were there, along with 20 other tourists from all nations of the world on a bright and clear morning with frost on the handrail to watch an unforgettable sunrise on he Annapurna range as well as the steep, impressive lone giant of Dhawalagiri. An experience for a lifetime.
     time: Jan 16, 2020
     star: 4
-  - name: Franky Filth
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
+  - name: Santosh Ran
+    comment: I was fortunate enough to be paired with a great group for this journey and, hands down, the best guide on the mountain. Suman was knowledgeable, experienced, patient and hilarious. He knew the path like the back of his hand which put all of our group at ease and able to focus on the task at hand. Beyond his professionalism, Suman made the journey fun. He laughed with us and encouraged us, all the while making sure the endless logistics were handled. EBC trek is a must do in life and you'll want the best of the best, which is Shishu Tours and Suman as your guide.
     time: Mar 08, 2020
+    star: 4
+  - name: Sandip Kaur
+    comment: It was a good and very well planned trek. Our guide Suman is a professionel guide who does all his best for helping and supporting us, his clients. Also compliments to our porter. We had a great trek with fun and many good stories. Thank you both for making our trek succesful.
+    star: 3.5
+  - name: Samir Rass
+    comment: This is an amazing trip. We went from April 8 to the 20th, and the weather was almost perfect. Had clear skies and saw the summit. It challenges you physically and mentally, but it is absolutely worth it. The prep training is important and pays off. Have an adequate gear makes a big difference. However, there is a weight limitation on the flight from Katmandu to Lukla and for the potters, So do pack the essentials and not more. Otherwise you will have to leave things in Katmandu. Most of us didn’t take a shower for 6/7 days from Namche back to Namche, so bring with you large wipes. They are really useful. It is cold in the tea houses. They are not well insulated, and you can feel the cold air coming through the windows and door. I had a rated 0 sleeping bag and a liner and that was good, although my face got cold. I highly recommend Hari and Shishu tours to anyone interested in doing this trek!
     star: 3
+  - name: Ram Dev
+    comment: It is difficult to believe how beautiful the views you experience on this trek really are, even after actually doing it. We were lucky enough to have clear blue skies and sunshine for almost the whole 11 days, with just one foggy afternoon and one snowy morning on the way down. What really made the trek even better, though, was our guide. Bal from Shishu Tours was honestly outstanding, doing his utmost to make our experience as comfortable as it could be. He was a joy to hike with and we will definitely be seeing him again somehow when we go back to Nepal!
+    star: 3
+  - name: Sabi Tagaf
+    comment: We choose this specific trek with Shishu Tours based on the many good reviews on here. So thankful we did. At first we were a little worried about the altitude and our conditioning prior to the trek. But in all honesty, the pace and given time to finish the trek was very reasonable. I would be lying if I said it was easy. There were certainly some tough days. On our own, I don’t think it would have been possible without the help of our expert guide Lal and porter Pasang. With Over 20 years experience and over 200 treks to EBC, Lal is a highly qualified guide. He is very knowledgeable about the land, the culture, and the people. He suggested what to eat and what not to. Lal was very descriptive about what to expect on the following days hike. He was also being very adamant about taking the trek one day at a time, which helped greatly.
+    star: 4

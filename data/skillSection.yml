@@ -1,17 +1,25 @@
 ---
 enable: true
-topTitle: My Skills
+topTitle: Service
 content: >
-  ## Why hire me for your next project?
+  ## Why travel with us?
 
-  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
+  You'll be guided by personable, friendly, active, empathetic people, who love
+  showing off our superb trip destinations, but more than just that, they love
+  watching you experience it. Our guides will entertain you, they'll guide or
+  cook delicious meals for you, make sure every aspect of your trip is safe,
+  enjoyable, and full of lasting memories.
 
-image: images/skill/skill_image.jpg
+image: https://res.cloudinary.com/shishutours/image/upload/v1618647532/sonu-guide.jpg
 
 skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
-    percent: 60
-  - title: Javascript
+  - title: Powerful communicator
     percent: 85
+  - title: Memory like an elephant
+    percent: 75
+  - title: Sensitive to guest diversity
+    percent: 85
+  - title: Organized and punctual
+    percent: 90
+  - title: Charismatic and genuine
+    percent: 80

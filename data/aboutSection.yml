@@ -1,20 +1,21 @@
 ---
 enable: true
-topTitle: About
+topTitle:
 title: >
-  ## About me
+  ## About
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
 content: >
-  ### I design and build ultimate things.
+  ### Life is short and the world is wide.
 
-  I love to work in User Experience & User Interface designing. Because I love
-  to solve the design problem and find easy and better solutions to solve it. I always
-  try my best to make good user interface with the best user experience. I have been
-  working as a Visual designer from.
-button1Name: Hire me
-button2Name: Download CV
-button1Target: contact
-button2Target: contact
-image: images/about/about-img.jpg
+  All trips feature personal hosts and guides, commercial flights or private
+  jets, cozy and unique lodges or deluxe grand hotels, privileged access to
+  local events, visits to homestays or farms, soothing spa treatments, elephant,
+  camel or horse safaris, spectacular meals and numerous other services upon
+  request. Come and create your own exciting and unforgettable holidays with us
+  at ShiShu Tours - we guarantee you won't be disappointed.
+
+button1Name: Browse trips
+button2Name: About us
+button1Target: blog
+button2Target: about
+image: https://res.cloudinary.com/shishutours/image/upload/v1547815251/41893987_255587135297740_4373198755202072576_n_ftkdou.jpg

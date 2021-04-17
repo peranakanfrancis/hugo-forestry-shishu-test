@@ -1,13 +1,15 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Don’t listen to what they say. Go see.
 content: >
-  # I am here for your personal business
+  # To Travel is to Live
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
+
+  ShiShu Tours specialise in personalised and cost effective services, customised vacations worldwide.
+  Value for your time and money, ShiShu Tours will make your ultimate travel dreams and wishes a
+  reality at last!
+buttonName: Contact us
 buttonURL: contact
-image: images/hero/2960351.jpg
-videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+image: https://res.cloudinary.com/shishutours/image/upload/v1609942465/Patan%20Durbar%20Square%2C%20Lalitpur%2C%20Nepal2.jpg
+videoThumb: https://res.cloudinary.com/shishutours/image/upload/v1618644942/travel.jpg
+videoURL: https://www.youtube.com/watch?v=krOMC6WfjBM
