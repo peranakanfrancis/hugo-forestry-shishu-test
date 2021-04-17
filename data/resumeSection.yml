@@ -1,58 +1,70 @@
 ---
-enable: false
-topTitle: My Resume
-title: >
-  ## My Expertises
+enable: true
+topTitle: From the Founder
+title: ">
+  ## Sonu Maya Gurung
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
+  Shishu Tours was born from Sonu's avid love for travel. A seasoned veteran in
+  the tourist trade she decided to make possible all of the wonderful tours and
+  trips he envisioned, for everyone else to experience."
 
-
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
-tab1Name: Education
-tab2Name: Experiences
+tab1Name: Services
+tab2Name: Assistant
 tab1Target: education
 tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+      #### Air charter services
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      With the most pleasurable combination of luxury and economy, Shishu Tours
+      provides a spectrum of services that optimally meet your requirements, to
+      reach your destination. You can travel anywhere you wish, anytime you
+      desire. You set the time, schedule and destination. Leave the rest to us.
+      We have the reputation of ensuring punctuality, in luxurious comfort.
+    time:
+
   - content: >
-      #### Master in Arts
+      #### Luxury honeymoon or party
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      The ultimate honeymoon is on A Private luxury Yacht. Imagine cruising to
+      pristine uninhabited Tropical Island with nobody but you and your loved
+      one walking along the pure white beach, the ultimate romantic way of
+      spending your honeymoon.
+    time:
+
   - content: >
-      #### Master in Arts
+      #### Luxurious private villas
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      A home away from home. Choose the privacy and exclusivity of a private
+      villa. Set your own pace and mealtimes. Let us plan a vacation at several
+      select Incredible India destinations that revolve around luxury private
+      villa accommodations.
+    time:
 
 experience:
   - content: >
-      #### Umbrella co.
+      #### Excellent customer service
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+      We at Shishu Tours believe that “Customer’s Satisfaction” and
+      “Convenience” is of utmost importance. We can accommodate and alter our
+      travel programmes to suite our guest’s requirements. Every minute detail
+      from dietary requirements to transportation are personally looked into to
+      make a guest believe that he is not far away from home.
+    time:
   - content: >
-      #### Aperture Science
+      #### Travel assistance for booking of air, rail, bus
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
+      Shishu Tours has tied up with all major Airlines and Travel companies
+      providing the most economical fares to many Asian cities. We also assist
+      our guests who need to travel by Indian Railways or various state Busses
+      from Nepal to China and India.
+    time:
   - content: >
-      #### ACME Inc.
+      #### Local guides and experts
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
-  - content: >
-      #### LexCorp
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      To assist and accompany you on your trip, Shishu Tours uses local guides
+      who know each destination as only a resident can. Our guides are smart,
+      dynamic, and presentable, and they appreciate the genuine curiosity and
+      keen intelligence of Shishu Tours.
+    time:

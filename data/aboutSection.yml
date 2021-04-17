@@ -14,8 +14,8 @@ content: >
   request. Come and create your own exciting and unforgettable holidays with us
   at ShiShu Tours - we guarantee you won't be disappointed.
 
-button1Name: Browse trips
-button2Name: About us
-button1Target: blog
-button2Target: about
+button1Name: Contact us
+button2Name: Send a WhatsApp
+button1Target: contact
+button2Target: https://wa.link/3nqvb0
 image: https://res.cloudinary.com/shishutours/image/upload/v1547815251/41893987_255587135297740_4373198755202072576_n_ftkdou.jpg
