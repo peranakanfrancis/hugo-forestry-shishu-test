@@ -17,19 +17,13 @@ People who arrive in Nepal for long holidays they don't miss Pokhara because of 
 
 **Day 1: Pokhara drive to Phedi Trek to Dhampus (1,600m) 5,249ft Distance: 5-6 km (2-3 hours)**
 
-![](https://res.cloudinary.com/shishutours/image/upload/v1609827578/World%20Peace%20Pagoda%20Access%202nd%20Rd%2C%20Pokhara%2033700%2C%20Nepal%2C%20Pokhara.jpg)
-
 From Pokhara, we will take a scenic drive towards Phedi and it’s about 30 minutes, from Phedi we will start walking. At the beginning, we have walk uphill and it’s not totally climbing the hill the trails are wide. Slowly 1 hr uphill walk will take you in the dhampus village then walking through villages with stunning mountain views. Dhampus village is at 1600m from the sea level and of the paradise in Nepal. In total, we will walk 3 hrs from starting point. We will spend our night with very charming and friendly Gurung people in nice hotels and homestay. Dhampus village is pretty much famous for yoga trek, if you are wondering for yoga and meditation in a lower part of Himalayas then dhampus is the right place.
 
 **Day 2: Dhampus Trek to Sarangkot (1600m) 5249ft Distance:19-20 km (6-7 hours)**
 
-![](https://res.cloudinary.com/shishutours/image/upload/v1609827725/World%20Peace%20Pagoda%20Access%202nd%20Road%2C%20Pokhara%2C%20Nepal2.jpg)
-
 Wake up early morning for the beautiful mountain views which change the color after the sunrise. Enjoy the morning breakfast which will be served by our team because they will stay in the same place. Before joining the breakfast pack your bags so it will be easy for our guys. At first, it's pretty much easy and bit downhill but after reaching to Naudanda hiking trail is almost flat. Sarangkot is beautiful and the popular hill station for Annapurna ranges, sunset, and sunrise. Enjoy the peaceful evening in Sarangkot.
 
 **Day 3: Sarangkot drive to Pokhara**
-
-![](https://res.cloudinary.com/shishutours/image/upload/v1609827855/Phewa%20Lake%2C%20Pokhara%2C%20Nepal2.jpg)
 
 Early morning enjoy your breakfast with the sunrise and the panoramic mountains view. From here you can see Pokhara valley, Fewa lakes, and amazing landscapes. If you love photography than must bring a nice camera. After breakfast and the morning view our guide will drop to your hotel. Enjoy the shopping and peaceful walk around Fewa lake.
 
