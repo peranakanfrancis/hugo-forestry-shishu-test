@@ -89,3 +89,6 @@ weight = 3
 icon = "fa-twitter-square"
 url = "https://twitter.com/"
 weight = 4
+
+# Cloudinary
+cloudinary_url = "https://res.cloudinary.com/shishutours/image/upload"
