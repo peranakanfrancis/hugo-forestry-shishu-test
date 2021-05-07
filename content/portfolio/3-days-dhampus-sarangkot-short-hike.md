@@ -6,18 +6,20 @@ client: 3 days
 shortDescription: Among many of world's best trekking trails from Pokhara, you can
   do a short day hiking without giving trouble to your lungs. Pokhara is one of the
   largest city in Nepal with beautiful lakes, majestic Himalayas, and greenery hills
-challenge: Catch one of Nepal classic sunrise spots from Sarangkot Hill and experience
-  village life on a short trek with great views of the Annapurnas
+challenge:
+solution:
 
 ---
+
+> #### Among many of world's best trekking trails from Pokhara, you can do a short day hiking without living trouble to your lungs. Pokhara is one of the largest city in Nepal with beautiful lakes, majestic Himalayas, and greenery hills
+
 People who arrive in Nepal for long holidays they don't miss Pokhara because of its beauty. Pokhara is surrounded by the white snow-capped mountains which you can see from your bed too.
 
 3 days Dhampus Sarangkot trek is the best way to see the majestic Himalayas and also to see the typical village of Dhampus. Dhampus village is famous for a short day hiking trip and easily accessible by drive too but if you want to stretch your legs for a while then dhampus is the best hiking trail destination. If you are curious and concerned how about the altitude than don't worry up to dhampus elevation everyone can make it. For views, you will see exactly same views what you are seeing in our banner images.
 
-***
-Itinerary:
-
-* Day 1: Pokhara drive to Phedi Trek to Dhampus (1,600m) 5,249ft Distance: 5-6 km (2-3 hours)
+#### Itinerary:
+**********************************
+**Day 1: Pokhara drive to Phedi Trek to Dhampus (1,600m) 5,249ft Distance: 5-6 km (2-3 hours)**
 
 From Pokhara, we will take a scenic drive towards Phedi and it’s about 30 minutes, from Phedi we will start walking. At the beginning, we have walk uphill and it’s not totally climbing the hill the trails are wide. Slowly 1 hr uphill walk will take you in the dhampus village then walking through villages with stunning mountain views. Dhampus village is at 1600m from the sea level and of the paradise in Nepal. In total, we will walk 3 hrs from starting point. We will spend our night with very charming and friendly Gurung people in nice hotels and homestay. Dhampus village is pretty much famous for yoga trek, if you are wondering for yoga and meditation in a lower part of Himalayas then dhampus is the right place.
 
